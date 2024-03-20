@@ -1,0 +1,53 @@
+# Banco de Dados
+
+-> Conceito de banco de bados;
+-> Tipos de banco de dados;
+-> Tipos de linguagens de banco de dados.
+
+# Conceito de Banco de Dados
+
+Um Banco de Dados é uma coleção de informações organizadas para fácil acesso, gerenciamento e atualização.
+	-> Possui linhas, colunas e tabelas;
+	-> Os dados são consultados, atualizados e excluídos sempre que necessário.
+
+Os bancos de dados computacionais podem receber vários registros:
+	-> Transações de vendas;
+	-> Catálogo de produtos;
+	-> inventário;
+	-> Perfil de Clientes;
+
+O Sistema de Gerenciamento de Banco de Dados (SGBD):
+	-> Fornece a capacidade de controlar o acesso aos dados;
+	-> Define a geração de relatórios e análise de dados;
+	-> Como um mainframe, é utilizado em computadores de médio e auto nível.
+
+Um banco de dados pode ser considerado um software para:
+	-> Armazenar informações e recuperar dados;
+	-> Adicionar, atualizar e remover de forma automática.
+		(Para manusear de forma automática, é necessário utilizar a lógica 
+		em uma linguagem de programação)
+	-> As informações são armazenadas igual a uma planilha.
+
+A estrutura do banco de dados é definida por um modelo:
+	-> O modelo mais usado é o modelo relacional;
+	-> O modelo relacional usa o id para fazer a relação entre as tabelas;
+	
+
+#Tipos de Banco de Dados
+
+Segundo Geremia (2010), são quatro os tipos de banco de dados existentes: 
+	-> Banco de dados relacional;  
+	-> Banco de dados hierárquico; 
+	-> Banco de dados em rede;  
+	-> Banco de dados objeto-relacional.
+
+O Banco de Dados Relacional é uma coleção de relações:
+	-> É um conjunto de tabelas, colunas e linhas que possibilita o relacionamento de
+	uma ou mais tabelas. 
+	-> Com um ou mais conjuntos de tabela, é possível acessar e reorganizar informações
+	sem a necessidade de reorganizar as tabelas.
+
+Banco de Dados Hierárquico segue um padrão semelhante a hierarquia:
+	-> Consultando uma tabela, é possível achar informações em outras tabelas.
+	
+
